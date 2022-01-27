@@ -1,0 +1,148 @@
+,timestamp,company,level,title,totalyearlycompensation,location,yearsofexperience,yearsatcompany,tag,basesalary,stockgrantvalue,bonus,gender,otherdetails
+780,2018-06-08 00:29:47,Amazon,L4,Data Scientist,140.0,"Seattle, WA",2.0,2.0,,92000.0,48000.0,,Male,
+873,2018-06-17 21:07:18,Facebook,E3,Data Scientist,150.0,"Singapore, SG, Singapore",0.0,0.0,ML / AI,150.0,30000.0,30000.0,Female,
+1327,2018-08-15 15:38:02,Microsoft,62,Data Scientist,220.0,"Redmond, WA",2.0,2.0,ML / AI,137.0,67.0,15.0,,
+1705,2018-09-07 00:23:35,Apple,ICT3,Data Scientist,215.0,"Cupertino, CA",0.0,0.0,ML / AI,125.0,38.0,52.0,,
+1845,2018-09-16 07:42:01,Microsoft,63,Data Scientist,243.0,"Redmond, WA",2.0,1.0,ML / AI,154.0,78.0,11.0,,
+1876,2018-09-17 21:13:21,Amazon,SDE III,Data Scientist,300.0,"Sunnyvale, CA",1.0,3.0,ML / AI,180.0,100.0,20.0,,
+2042,2018-09-26 22:14:28,Google,L4,Data Scientist,210.0,"Mountain View, CA",1.0,1.0,Full Stack,132.0,42.0,36.0,,
+2043,2018-09-26 22:15:36,Google,L4,Data Scientist,210.0,"Mountain View, CA",1.0,1.0,Full Stack,132.0,42.0,36.0,,
+2230,2018-09-29 15:19:07,Twitter,L2,Data Scientist,230.0,"San Francisco, CA",2.0,1.0,Data Science,,,,,
+2513,2018-10-13 06:05:30,Netflix,Senior,Data Scientist,400.0,"Los Gatos, CA",2.0,2.0,Exp,,,,,
+2516,2018-10-13 10:54:47,Amazon,L5,Data Scientist,157.0,"Seattle, WA",2.0,1.0,Full Stack,118.0,17.0,22.0,,
+2548,2018-10-15 11:14:17,Microsoft,SDE II,Data Scientist,240.0,"Redmond, WA",2.0,2.0,ML / AI,,,,,
+2605,2018-10-18 09:52:41,Google,L2,Data Scientist,120.0,"Santa Monica, CA",1.0,0.0,ML / AI,,,,,
+2755,2018-10-28 16:36:57,Facebook,IC3,Data Scientist,193.0,"San Francisco, CA",1.0,0.0,ML / AI,,,,,
+2924,2018-10-31 20:30:31,Microsoft,62,Data Scientist,180.0,"Redmond, WA",2.0,2.0,ML / AI,136.0,24.0,20.0,,
+2939,2018-10-31 21:24:09,Amazon,L4,Data Scientist,125.0,"Seattle, WA",1.0,1.0,ML / AI,105.0,4.0,15.0,,
+3127,2018-11-03 17:08:00,Microsoft,63,Data Scientist,225.0,"Redmond, WA",2.0,1.0,ML / AI,155.0,55.0,15.0,,
+3172,2018-11-06 13:53:06,Facebook,E4,Data Scientist,230.0,"Menlo Park, CA",0.0,0.0,ML / AI,,,,Male,
+3537,2018-11-30 11:41:07,Microsoft,60,Data Scientist,145.0,"Seattle, WA",2.0,1.0,ML / AI,126.0,12.0,6.0,Male,
+3556,2018-12-01 13:38:49,Microsoft,59,Data Scientist,160.0,"Redmond, WA",0.0,0.0,ML / AI,109.0,30.0,21.0,Male,
+3925,2018-12-25 20:06:22,Facebook,L3,Data Scientist,150.0,"Menlo Park, CA",0.0,0.0,Product Analytics,115.0,25.0,10.0,Male,
+3936,2018-12-26 09:35:59,Twitter,Data Scientist 1,Data Scientist,187.0,"San Francisco, CA",0.0,0.5,ML / AI,137.0,43.0,7.0,Male,
+4157,2019-01-09 12:46:17,Microsoft,61,Data Scientist,226.0,"Bellevue, WA",0.0,0.0,Statistics,142.0,45.0,39.0,Male,
+4290,2019-01-15 22:21:19,Microsoft,60,Data Scientist,192.0,"Redmond, WA",0.0,0.2,ML / AI,117.0,38.0,37.0,Male,
+4834,2019-02-11 14:19:48,Apple,3,Data Scientist,230.0,"Cupertino, CA",1.0,4.0,ML / AI,136.0,80.0,16.0,Female,
+4935,2019-02-16 12:13:46,Microsoft,61,Data Scientist,150.0,"Redmond, WA",0.0,0.0,Machine Learning,120.0,20.0,10.0,Male,
+4936,2019-02-16 12:15:55,Microsoft,61,Data Scientist,150.0,"Redmond, WA",0.0,0.0,Machine Learning,,,,,
+5171,2019-02-28 10:14:46,Amazon,L3,Data Scientist,123.0,"Seattle, WA",0.0,1.0,ML / AI,105.0,8.0,10.0,Male,
+5331,2019-03-06 07:46:49,Microsoft,60,Data Scientist,150.0,"Redmond, WA",0.0,0.0,ML / AI,117.0,25.0,8.0,Male,
+5396,2019-03-08 14:55:01,Microsoft,59,Data Scientist,164.0,"Cambridge, MA",0.0,0.0,ML / AI,109.0,30.0,25.0,Male,
+5598,2019-03-17 09:43:02,Facebook,IC4,Data Scientist,201.0,"Seattle, WA",2.0,1.0,Analytics,151.0,35.0,15.0,Male,
+5738,2019-03-23 00:32:33,Microsoft,59,Data Scientist,108.0,"Redmond, WA",1.0,1.0,ML / AI,,,,Female,
+5742,2019-03-23 06:19:34,Microsoft,62,Data Scientist,230.0,"Seattle, WA",2.0,1.0,ML / AI,140.0,80.0,10.0,Female,
+5765,2019-03-24 00:43:43,Microsoft,62,Data Scientist,240.0,"Mountain View, CA",0.0,2.0,ML / AI,,,,Other,
+5772,2019-03-24 15:03:17,Google,L4,Data Scientist,200.0,"Mountain View, CA",0.0,0.0,ML / AI,,,,Female,
+5780,2019-03-24 22:18:53,Microsoft,60,Data Scientist,158.0,"Sunnyvale, CA",1.0,0.0,ML / AI,118.0,20.0,20.0,Male,
+5976,2019-03-31 16:58:35,Amazon,L5,Data Scientist,332.0,"Palo Alto, CA",1.0,0.0,Optimization,185.0,17.0,130.0,Male,PhD
+6165,2019-04-06 21:40:27,Google,L5,Data Scientist,100.0,"Toronto, ON, Canada",2.0,1.0,Distributed Systems (Back-End),,,,,
+6167,2019-04-06 22:38:28,Amazon,L5,Data Scientist,294.0,"Seattle, WA",1.0,0.0,ML / AI,160.0,87.0,47.0,Male,
+6168,2019-04-06 22:40:06,Amazon,L5,Data Scientist,294.0,"Seattle, WA",1.0,0.0,ML / AI,160.0,87.0,47.0,Male,
+6173,2019-04-07 08:22:54,Amazon,L5,Data Scientist,294.0,"Seattle, WA",1.0,0.0,ML / AI,160.0,87.0,47.0,Male,
+6197,2019-04-08 09:43:37,Facebook,L4,Data Scientist,190.0,"Menlo Park, CA",2.0,1.0,Analytics,145.0,16.0,29.0,Female,
+6260,2019-04-10 17:55:25,Facebook,E4,Data Scientist,225.0,"Menlo Park, CA",0.0,0.0,Core Data Science,150.0,60.0,15.0,Male,"75,000 signing bonus"
+6702,2019-04-28 02:38:51,Amazon,L5,Data Scientist,300.0,"Seattle, WA",1.0,0.0,ML / AI,160.0,93.0,47.0,Male,Applied Scientist II
+6902,2019-05-06 21:04:54,Amazon,5,Data Scientist,294.0,"Seattle, WA",1.0,0.0,ML / AI,160.0,87.0,47.0,Male,Applied Scientist
+6975,2019-05-09 15:08:45,Google,L4,Data Scientist,220.0,"Redwood City, CA",1.0,0.0,ML / AI,140.0,59.0,21.0,Male,
+7130,2019-05-16 12:46:56,Facebook,IC4,Data Scientist,190.0,"Menlo Park, CA",1.0,0.0,Data Exploration,150.0,40.0,,Male,
+7240,2019-05-20 22:31:17,Netflix,Senior Data Scientist,Data Scientist,368.0,"Los Gatos, CA",0.0,0.0,ML / AI,350.0,18.0,,Male,
+7290,2019-05-22 15:17:55,Amazon,L4,Data Scientist,144.0,"San Francisco, CA",1.0,0.5,ML / AI,120.0,4.0,20.0,Male,
+7712,2019-06-08 18:28:12,Microsoft,62,Data Scientist,199.0,"Redmond, WA",0.0,0.0,ML / AI,122.0,37.0,40.0,Male,
+7741,2019-06-09 22:31:28,Microsoft,61,Data Scientist,173.0,"Bellevue, WA",2.0,1.5,ML / AI,128.0,30.0,15.0,Male,
+7755,2019-06-10 13:00:32,Facebook,IC4,Data Scientist,189.0,"Menlo Park, CA",0.0,0.0,Analytics,140.0,35.0,14.0,Male,
+7856,2019-06-13 15:05:32,Microsoft,62,Data Scientist,199.0,"Redmond, WA",0.0,0.0,ML / AI,122.0,37.0,40.0,Male,
+8434,2019-06-18 13:47:19,Google,L4,Data Scientist,195.0,"Mountain View, CA",0.0,0.0,ML / AI,137.0,21.0,35.0,Male,
+10020,2019-08-04 09:54:09,Amazon,SDE II,Data Scientist,300.0,"San Francisco, CA",2.0,2.0,ML / AI,150.0,120.0,30.0,Male,
+10347,2019-08-16 18:22:13,Microsoft,63,Data Scientist,290.0,"Seattle, WA",2.0,2.0,ML / AI,,,,,
+10398,2019-08-17 19:58:42,Microsoft,61,Data Scientist,180.0,"Redmond, WA",2.0,2.0,ML / AI,130.0,30.0,20.0,,
+10411,2019-08-18 03:04:46,Amazon,L5,Data Scientist,294.0,"Seattle, WA",1.0,0.0,ML / AI,160.0,87.0,47.0,Male,Applied Scientist 
+10625,2019-08-24 08:21:22,Microsoft,59,Data Scientist,146.0,"Redmond, WA",1.0,0.0,ML / AI,108.0,18.0,20.0,Male,
+10626,2019-08-24 08:24:03,Microsoft,60,Data Scientist,155.0,"Redmond, WA",2.0,1.0,ML / AI,120.0,23.0,12.0,Male,
+11242,2019-09-11 22:05:43,Google,L4,Data Scientist,189.0,"Sunnyvale, CA",0.0,0.0,ML / AI,137.0,30.0,22.0,,
+11317,2019-09-13 16:07:03,Microsoft,61,Data Scientist,165.0,"Redmond, WA",0.0,0.0,ML / AI,130.0,30.0,5.0,Male,
+11505,2019-09-15 15:59:24,Facebook,IC4,Data Scientist,202.0,"Menlo Park, CA",0.0,0.25,Infra,150.0,37.0,15.0,Female,
+11557,2019-09-16 19:56:01,Microsoft,61,Data Scientist,240.0,"Redmond, WA",0.0,0.0,ML / AI,143.0,60.0,37.0,Male,
+11590,2019-09-17 14:17:24,Microsoft,62,Data Scientist,232.0,"Seattle, WA",0.0,0.0,ML / AI,141.0,61.0,30.0,Male,
+11738,2019-09-21 11:56:39,Facebook,IC3,Data Scientist,144.0,"Menlo Park, CA",1.0,1.0,Product analytics,113.0,20.0,11.0,Male,
+11798,2019-09-23 18:19:49,Microsoft,L61,Data Scientist,280.0,"Sunnyvale, CA",0.0,0.0,ML / AI,155.0,65.0,60.0,,
+11815,2019-09-24 07:31:59,Twitter,SWE II,Data Scientist,232.0,"San Francisco, CA",2.0,1.0,ML / AI,150.0,60.0,22.0,Male,
+12592,2019-10-15 06:52:13,Microsoft,61,Data Scientist,223.0,"Redmond, WA",2.0,0.0,ML / AI,135.0,50.0,38.0,Male,
+12874,2019-10-23 16:25:38,Microsoft,60,Data Scientist,180.0,"Bellevue, WA",0.0,0.0,ML / AI,127.0,33.0,20.0,Female,
+12912,2019-10-25 08:00:52,Google,L4,Data Scientist,207.0,"Sunnyvale, CA",0.0,0.0,User Experience,137.0,50.0,20.0,Male,
+12936,2019-10-25 17:04:13,Amazon,L5,Data Scientist,247.0,"Seattle, WA",2.0,0.0,RETAIL,145.0,47.0,55.0,Female,
+13026,2019-10-29 09:57:27,Microsoft,60,Data Scientist,212.0,"Bellevue, WA",1.0,0.0,ML / AI,118.0,44.0,50.0,Female,
+13151,2019-11-01 18:16:36,Amazon,L5,Data Scientist,168.0,"Seattle, WA",1.0,1.0,ML / AI,126.0,20.0,22.0,Male,Masters
+13278,2019-11-05 14:34:07,Amazon,L5,Data Scientist,150.0,"Seattle, WA",1.0,3.0,ML / AI,115.0,25.0,10.0,Female,Masters
+13349,2019-11-07 07:17:21,Amazon,L4,Data Scientist,149.0,"Seattle, WA",0.0,0.0,DS ,110.0,4.0,35.0,Male,PhD
+13489,2019-11-11 19:53:19,Microsoft,60,Data Scientist,262.0,"Redmond, WA",0.0,0.0,ML / AI,118.0,44.0,100.0,Male,Masters
+13568,2019-11-14 11:59:07,Microsoft,60,Data Scientist,225.0,"Sunnyvale, CA",0.0,0.0,ML / AI,131.0,44.0,50.0,Male,Masters
+13961,2019-11-26 10:53:42,Microsoft,60,Data Scientist,213.0,"Bellevue, WA",0.0,0.0,ML / AI,118.0,45.0,50.0,Female,Masters
+14152,2019-12-03 21:56:01,Facebook,E3,Data Scientist,177.0,"Menlo Park, CA",0.0,0.0,ML / AI,120.0,25.0,32.0,Male,Masters
+14175,2019-12-04 22:15:17,Facebook,L4,Data Scientist,211.0,"Menlo Park, CA",2.0,0.0,Analytics,155.0,41.0,15.0,,Masters
+14235,2019-12-06 17:14:42,Facebook,IC4,Data Scientist,203.0,"Menlo Park, CA",0.0,0.0,Other,150.0,38.0,15.0,Female,PhD
+14372,2019-12-10 21:54:34,Microsoft,61,Data Scientist,144.0,"Redmond, WA",1.0,1.0,ML / AI,124.0,7.0,13.0,Male,PhD
+14654,2019-12-18 20:52:09,Netflix,Senior,Data Scientist,420.0,"Los Angeles, CA",2.0,1.0,ML / AI,400.0,20.0,0.0,Female,PhD
+14856,2019-12-28 11:45:43,Apple,ICT4,Data Scientist,230.0,"Cupertino, CA",0.0,10.0,ML / AI,170.0,40.0,20.0,Male,PhD
+15357,2020-01-13 12:04:34,Microsoft,60,Data Scientist,173.0,"Bellevue, WA",0.0,0.0,ML / AI,127.0,33.0,13.0,Female,PhD
+15434,2020-01-15 09:02:22,Apple,ICT3,Data Scientist,208.0,"Cupertino, CA",0.0,0.0,ML / AI,150.0,35.0,23.0,Male,PhD
+15805,2020-01-22 09:01:39,Amazon,L4,Data Scientist,123.0,"Seattle, WA",2.0,2.0,ML / AI,102.0,1.0,20.0,Female,
+15879,2020-01-23 15:32:10,Microsoft,62,Data Scientist,215.0,"Seattle, WA",2.0,0.0,ML / AI,145.0,19.0,51.0,Male,Masters
+16107,2020-01-27 23:08:35,Microsoft,62,Data Scientist,187.0,"Seattle, WA",2.0,2.0,ML / AI,143.0,30.0,14.0,Male,PhD
+16206,2020-01-29 17:50:20,Microsoft,62,Data Scientist,194.0,"Redmond, WA",2.0,0.0,ML / AI,145.0,23.0,26.0,Male,Sign-on Bonus: 40k - Masters
+16517,2020-02-05 09:53:26,Twitter,Data Scientist II,Data Scientist,192.0,"San Francisco, CA",2.0,2.0,ML / AI,145.0,25.0,22.0,Male,
+16660,2020-02-08 04:55:33,Facebook,IC4,Data Scientist,205.0,"New York, NY",2.0,1.0,Data Engineering ,150.0,40.0,15.0,Male,Masters
+16956,2020-02-13 17:08:49,Amazon,L5,Data Scientist,236.0,"New York, NY",2.0,1.0,ML / AI,180.0,6.0,50.0,Male,Masters
+17391,2020-02-18 18:43:37,Microsoft,60,Data Scientist,141.0,"Cambridge, MA",2.0,2.0,ML / AI,121.0,6.0,14.0,Female,Masters
+17426,2020-02-19 08:30:39,Google,L3,Data Scientist,175.0,"Sunnyvale, CA",0.0,0.0,ML / AI,115.0,40.0,20.0,Male,African American
+17494,2020-02-20 13:06:16,Amazon,L5,Data Scientist,228.0,"New York, NY",2.0,1.0,ML / AI,178.0,50.0,0.0,Male,PhD
+17690,2020-02-24 18:55:12,Microsoft,62,Data Scientist,211.0,"Sunnyvale, CA",0.0,0.0,Applied Scientist,154.0,45.0,12.0,Female,PhD
+17780,2020-02-26 00:45:55,Amazon,L 4,Data Scientist,185.0,"Seattle, WA",0.0,0.0,ML / AI,128.0,17.0,40.0,,Masters
+17835,2020-02-27 06:19:07,Microsoft,61,Data Scientist,155.0,"Seattle, WA",2.0,0.0,ML / AI,128.0,12.0,15.0,Female,Masters
+17866,2020-02-27 16:37:16,Twitter,Data Scientist I,Data Scientist,168.0,"San Francisco, CA",1.0,1.0,ML / AI,130.0,25.0,13.0,Male,
+18121,2020-03-04 15:37:50,Google,L3,Data Scientist,175.0,"San Francisco, CA",1.0,0.0,ML / AI,115.0,40.0,20.0,Male,African American
+18141,2020-03-04 20:58:18,Microsoft,62,Data Scientist,205.0,"Redmond, WA",0.0,0.0,ML / AI,141.0,50.0,14.0,Female,PhD
+18313,2020-03-07 22:45:37,Microsoft,61,Data Scientist,200.0,"New York, NY",2.0,2.0,API Development (Back-End),120.0,60.0,20.0,Male,Masters
+18353,2020-03-08 21:21:08,Microsoft,61,Data Scientist,191.0,"Redmond, WA",0.0,0.0,ML / AI,131.0,35.0,25.0,Male,Masters
+18659,2020-03-16 13:35:54,Facebook,E3,Data Scientist,157.0,"Menlo Park, CA",0.0,0.0,Data Science,120.0,25.0,12.0,Female,Masters
+18685,2020-03-17 12:24:52,Microsoft,61,Data Scientist,142.0,"Redmond, WA",2.0,2.0,ML / AI,124.0,6.0,12.0,Male,PhD
+18714,2020-03-18 09:44:18,Amazon,L4,Data Scientist,162.0,"Seattle, WA",1.0,0.0,ML / AI,122.0,24.0,16.0,,Masters
+18733,2020-03-18 19:12:47,Netflix,Senior Data Scientist,Data Scientist,467.0,"Los Gatos, CA",2.0,1.0,ML / AI,445.0,22.0,0.0,Male,PhD
+19043,2020-03-27 23:44:24,Microsoft,60,Data Scientist,180.0,"Redmond, WA",2.0,1.0,ML / AI,120.0,45.0,15.0,Male,Data & Applied Scientist - Masters
+19266,2020-04-02 23:45:16,Facebook,IC4,Data Scientist,280.0,"Menlo Park, CA",0.0,0.0,Networking,280.0,,0.0,,
+19401,2020-04-06 11:05:10,Amazon,L4,Data Scientist,93.0,"Cambridge, EN, United Kingdom",2.0,2.0,ML / AI,71.0,22.0,0.0,Male,Masters
+19436,2020-04-07 00:06:01,Amazon,L4,Data Scientist,154.0,"Seattle, WA",0.0,0.0,ML / AI,120.0,4.0,30.0,Male,
+19976,2020-04-18 02:04:31,Microsoft,61,Data Scientist,211.0,"Sunnyvale, CA",0.0,0.0,ML / AI,154.0,45.0,15.0,,PhD
+20156,2020-04-23 08:45:55,Amazon,L4,Data Scientist,167.0,"Seattle, WA",2.0,0.0,ML / AI,150.0,12.0,7.0,Male,Masters
+20229,2020-04-25 01:25:31,Microsoft,62,Data Scientist,190.0,"Redmond, WA",2.0,2.0,ML / AI,140.0,40.0,10.0,Male,PhD
+20411,2020-04-29 15:43:15,Microsoft,62,Data Scientist,172.0,"Atlanta, GA",0.0,0.0,ML / AI,135.0,23.0,14.0,Male,25000 sign on - PhD
+20541,2020-05-02 21:24:03,Amazon,L5,Data Scientist,222.0,"Charlotte, NC",2.0,0.0,ML / AI,150.0,10.0,62.0,,"Sign-On (1st yr/2nd yr): 62k/49k, Stock: 200k (5/15/40/40) - PhD"
+20811,2020-05-07 18:19:06,Amazon,L4,Data Scientist,167.0,"Seattle, WA",2.0,0.0,ML / AI,150.0,10.0,7.0,Male,Masters
+20823,2020-05-07 22:15:33,Facebook,IC4,Data Scientist,225.0,"Menlo Park, CA",2.0,1.0,ML / AI,160.0,45.0,20.0,Female,Masters
+20948,2020-05-11 12:38:35,Netflix,Senior Data Scientist,Data Scientist,375.0,"Los Gatos, CA",0.0,0.0,ML / AI,255.0,20.0,100.0,Male,
+21011,2020-05-12 13:02:16,Amazon,L5,Data Scientist,262.0,"New York, NY",2.0,0.0,Security,175.0,42.0,50.0,Male,Masters
+21492,2020-05-21 19:51:28,Google,Data,Data Scientist,120.0,"Atlanta, GA",2.0,1.0,Networking,100.0,12.0,10.0,Male,Masters
+21493,2020-05-21 19:58:59,Google,L1,Data Scientist,100.0,"Atlanta, GA",0.0,0.0,Anlytics,70.0,20.0,10.0,Male,Masters
+22053,2020-06-02 14:32:47,Microsoft,61,Data Scientist,191.0,"Redmond, WA",1.0,1.0,ML / AI,131.0,45.0,15.0,Male,PhD
+22265,2020-06-07 09:11:29,Apple,E4,Data Scientist,144.0,"Cupertino, CA",2.0,0.0,Big Data,144.0,0.0,0.0,Male,Masters
+22288,2020-06-07 20:45:03,Amazon,L4,Data Scientist,140.0,"Seattle, WA",2.0,1.0,ML / AI,120.0,15.0,5.0,,PhD
+22304,2020-06-08 09:53:48,Amazon,L5,Data Scientist,210.0,"Seattle, WA",2.0,0.0,ML / AI,145.0,36.0,26.0,Male,PhD
+22446,2020-06-10 18:39:01,Google,L4,Data Scientist,213.0,"Sunnyvale, CA",0.0,0.0,UX,142.0,50.0,21.0,Male,Masters and PhD
+22490,2020-06-11 14:35:05,Microsoft,60,Data Scientist,184.0,"Redmond, WA",1.0,1.0,ML / AI,120.0,50.0,14.0,Male,Masters
+22681,2020-06-15 21:17:35,Twitter,DS II ,Data Scientist,180.0,"San Francisco, CA",1.0,1.0,data science,156.0,14.0,11.0,Female,PhD
+22730,2020-06-16 15:41:41,Facebook,IC4,Data Scientist,200.0,"San Francisco, CA",2.0,2.0,ML / AI,150.0,40.0,10.0,Female,Masters
+23099,2020-06-24 18:43:41,Apple,ICT3,Data Scientist,220.0,"Cupertino, CA",1.0,1.0,ML / AI,150.0,50.0,20.0,Male,Masters
+23701,2020-07-06 18:03:05,Facebook,IC4,Data Scientist,205.0,"Menlo Park, CA",0.0,0.0,Product analytics,150.0,40.0,15.0,Female,"Race: Asian, Academic Level: Doctorate (PhD)"
+23751,2020-07-07 10:30:12,Facebook,IC5,Data Scientist,297.0,"Seattle, WA",2.0,2.0,analytics,180.0,90.0,27.0,,Academic Level: Doctorate (PhD)
+23791,2020-07-07 16:11:10,Apple,ICT3,Data Scientist,197.0,"Sunnyvale, CA",2.0,0.0,ML / AI,145.0,38.0,15.0,Female,"50k signin, Academic Level: Master’s degree"
+23930,2020-07-09 19:41:43,Facebook,IC3,Data Scientist,156.0,"New York, NY",0.0,0.0,ML / AI,120.0,25.0,12.0,Male,Academic Level: Master’s degree
+24233,2020-07-15 17:36:42,Facebook,IC4,Data Scientist,210.0,"Menlo Park, CA",0.0,0.0,Infra,150.0,35.0,25.0,,Academic Level: Doctorate (PhD)
+24523,2020-07-21 16:39:38,Amazon,L4,Data Scientist,165.0,"Seattle, WA",1.0,0.0,ML / AI,140.0,10.0,15.0,Male,"Race: White, Academic Level: Doctorate (PhD)"
+24768,2020-07-25 10:28:43,Facebook,L3,Data Scientist,177.0,"Menlo Park, CA",0.0,0.0,ML / AI,120.0,25.0,32.0,Male,"Race: Asian, Academic Level: Master’s degree"
+25007,2020-07-29 11:04:47,Microsoft,61,Data Scientist,238.0,"Sunnyvale, CA",2.0,2.0,ML / AI,153.0,70.0,15.0,,
+25249,2020-08-02 14:35:38,Apple,L3,Data Scientist,200.0,"Cupertino, CA",0.0,0.0,ML / AI,130.0,35.0,35.0,Female,"Race: Asian, Academic Level: Master’s degree"
+25282,2020-08-03 10:54:17,Google,L3,Data Scientist,130.0,"Sunnyvale, CA",2.0,1.0,ML / AI,121.0,0.0,9.0,,
+25482,2020-08-05 17:17:03,Apple,ICT3,Data Scientist,215.0,"Cupertino, CA",2.0,1.0,ML / AI,170.0,27.0,17.0,Female,"50K signing bonus, 50K relocation package, Race: White, Academic Level: Doctorate (PhD)"
+25749,2020-08-10 11:14:24,Microsoft,59,Data Scientist,150.0,"Seattle, WA",1.0,1.0,Data,110.0,30.0,10.0,,
+26659,2020-08-21 08:13:50,Facebook,IC3,Data Scientist,167.0,"Menlo Park, CA",1.0,1.0,Data,117.0,30.0,20.0,Male,"Race: Hispanic / Latino, Academic Level: Bachelor’s degree"
+26961,2020-08-25 00:35:36,Microsoft,SDE,Data Scientist,300.0,"Suzhou, JS, China",0.0,0.0,ML / AI,200.0,100.0,0.0,Female,"Race: Asian, Academic Level: Bachelor’s degree"
